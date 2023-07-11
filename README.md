@@ -2,7 +2,7 @@
 This PHP library is specifically developed for the Laravel framework and enables you to fetch all DNS records associated with a given domain name. Its purpose is to provide a convenient way to retrieve and work with DNS information within Laravel-based applications.
 
 ## Requirements
-- PHP v.8.0 or later
+- PHP v.8.2 or later
 - Composer as dependency management
 
 ## Installation
