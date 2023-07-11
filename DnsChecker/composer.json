@@ -2,6 +2,7 @@
     "name": "yuriy-haborets/dns-checker",
     "description": "A package for retrieving DNS records for a specified domain name",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^8.0",
         "illuminate/support": "^9.0"
