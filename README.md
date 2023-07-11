@@ -10,7 +10,7 @@ This PHP library is specifically developed for the Laravel framework and enables
 - Run the following command to install the library via Composer:
 
 ```
-  composer require phoenix/dns-library
+  composer require yuriy-haborets/dns-library
 ```
 
 ## Usage
